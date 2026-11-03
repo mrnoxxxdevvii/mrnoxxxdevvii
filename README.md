@@ -1,7 +1,9 @@
-<div align="center">
-  <img src="assets/mr-nox-black.png#gh-light-mode-only" alt="Mr.Nox" width="340" />
-  <img src="assets/mr-nox-white.png#gh-dark-mode-only" alt="Mr.Nox" width="340" />
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=cdn.corenexis.com/f/cL2kDfr4.png&amp;filt=negate" />
+    <img src="https://cdn.corenexis.com/f/cL2kDfr4.png" alt="Mr.Nox" width="340" />
+  </picture>
+</p>
 
 <h3 align="center">Jestem Mr.Nox</h3>
 
@@ -18,9 +20,9 @@
 
 <br />
 
-<div align="center">
-  <img src="assets/rain.gif" alt="Anime boy in the rain" width="440" />
-</div>
+<p align="center">
+  <img src="https://www.image2url.com/r2/default/gifs/1793689043114-85acbf64-2f23-4194-8421-7e542e12d9da.gif" alt="Anime boy in the rain" width="440" />
+</p>
 
 <br />
 
@@ -39,16 +41,20 @@
 <h2 align="center">📈 Total Contributions</h2>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/mrnoxxxdevvii" alt="Mr.Nox contribution graph" width="680" />
+  <img src="https://ghchart.rshah.org/409ba5/mrnoxxxdevvii" alt="Mr.Nox contribution graph" width="663" />
 </p>
 
 <br />
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/mrnoxxxdevvii">
-    <img src="assets/github-black.png#gh-light-mode-only" alt="GitHub" width="96" />
-    <img src="assets/github-white.png#gh-dark-mode-only" alt="GitHub" width="96" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=cdn.corenexis.com/f/yJc5ISA7.png&amp;filt=negate" />
+      <img src="https://cdn.corenexis.com/f/yJc5ISA7.png" alt="GitHub" width="140" />
+    </picture>
   </a>
-  <br />
-  <sub><strong>@mrnoxxxdevvii</strong></sub>
-</div>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mrnoxxxdevvii"><strong>Mr Nox</strong> · @mrnoxxxdevvii</a>
+</p>
