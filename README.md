@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-<h3 align="center">Jestem Mr.Nox</h3>
+<h3 align="center">I'am Mr.Nox</h3>
 
 <p align="center">
   <strong>Building open-source tools &amp; software using AI.</strong><br />
